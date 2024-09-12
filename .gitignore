@@ -1,0 +1,6 @@
+/vendor/
+/.idea/
+*.lock
+Dependency1.php
+Dependency2.php
+index.php

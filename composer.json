@@ -1,0 +1,19 @@
+{
+    "name": "vojtechrichter/di_container",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Vojtechrichter\\DiContainer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vojtechrichter",
+            "email": "vojta3218@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3",
+        "psr/container": "^2.0"
+    }
+}
